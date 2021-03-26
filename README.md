@@ -1,5 +1,5 @@
 # Sly HD Collection ToolSet
-A Bunch of tools in the making to modify the contents of Sly HD Collection for the ps3 version use visual studio to compile the files.
+A Bunch of tools in the making to modify the contents of Sly HD Collection .WAL Files for the ps3 version use visual studio to compile the files.
 # Sly 2 & 3 WAL Decrypter
 Drag the .WAL file from sly 2 or sly 3 on the Sly WAL Decryptor.exe and the .WAL file will decrypt you can also drag the files back on the program to encrypt it back since the algorithm is symmetric.
 # Sly 2 & 3 WAL Editor
